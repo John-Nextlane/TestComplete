@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="Login" key="{BFA06F3E-827B-470C-88CB-C558B9FA4D74}" path="Login.tcKDTest" />
+		<child name="LaunchApp" key="{AFA4EF7C-5BF6-419A-88F5-57F0668DDF06}" path="LaunchApp.tcKDTest" />
+		<child name="AddressCreate2" key="{83C2C2BE-CD07-4C75-A879-CDC8A5093222}" path="AddressCreate2.tcKDTest" />
+		<child name="AddressDeleteWithoutVihicle" key="{600C3A07-C9DD-46EA-9E7A-FEB81B2407A9}" path="AddressDeleteWithoutVihicle.tcKDTest" />
+		<child name="AddressCreate1" key="{5A7B1392-8614-476E-BFFE-B5D6609C92EB}" path="AddressCreate1.tcKDTest" />
+		<child name="VihicleDelete1" key="{70537FD2-0A55-4AC3-9EE9-CDE1EB192BAC}" path="VihicleDelete1.tcKDTest" />
+		<child name="CreateVehicle" key="{0D881DDE-37AE-494B-951A-43E7E3A47D6E}" path="CreateVehicle.tcKDTest" />
+		<child name="VehicleDelete2" key="{28615838-0E4C-4D34-8AB2-EA3C7E43A3B9}" path="VehicleDelete2.tcKDTest" />
+	</children>
+</Root>

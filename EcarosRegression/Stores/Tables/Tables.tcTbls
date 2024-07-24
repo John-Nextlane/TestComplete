@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{70FC6ED0-A122-4A26-9B64-EDDBB2F11A49}" version="15.0">
+	<children>
+		<child name="_SELECT_cbm_b_FROM_CHASSIS_BRAND_MAPPINGS_cbm_JOIN_BRANDS_b_ON_C_2024061912261" key="{CCA69B73-D8CF-4F18-8F28-CFDA566CBCAF}" path="_SELECT_cbm_b_FROM_CHASSIS_BRAND_MAPPINGS_cbm_JOIN_BRANDS_b_ON_C_2024061912261.tcTbl" />
+	</children>
+</Root>

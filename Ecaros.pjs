@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{1AD09A72-5D81-4296-902D-7EABAF1246BA}">
+	<children>
+		<child name="EcarosRegression" key="{3A65E050-9DF2-4FB5-A140-73B1CF82F731}" path="EcarosRegression\EcarosRegression.mds" />
+	</children>
+	<testItems key="{99B28DEA-0D50-4149-AB83-6E920EEE8B19}">
+		<children>
+			<testItem key="{3A65E050-9DF2-4FB5-A140-73B1CF82F731}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{C998599F-5AD5-4799-8F70-9057208BAF3A}" />
+	<analysis key="{99520F19-6045-4C03-B725-1266369066E5}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

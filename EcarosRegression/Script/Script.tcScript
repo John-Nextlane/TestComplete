@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="RandomName_RandomSurname" key="{C353ED8A-A665-48CE-83CE-61BFFD0DE94A}" path="RandomName_RandomSurname.py" />
+		<child name="LaunchApp_Javaversion_OnLogError" key="{345508F8-20A4-4829-B2E9-9C1A92DC91A3}" path="LaunchApp_Javaversion_OnLogError.py" />
+	</children>
+</Root>
