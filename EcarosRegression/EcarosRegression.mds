@@ -16,12 +16,12 @@
 				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
-			<testItem name="LaunchApp" key="{3DBEA048-0B3E-43FE-9F73-AB471585283D}" group="False" parallel="False" enabled="False" testMoniker="KDT\{AFA4EF7C-5BF6-419A-88F5-57F0668DDF06}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+			<testItem name="LaunchApp" key="{3DBEA048-0B3E-43FE-9F73-AB471585283D}" group="False" parallel="False" enabled="True" testMoniker="KDT\{AFA4EF7C-5BF6-419A-88F5-57F0668DDF06}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
-			<testItem name="Login" key="{010103CF-B985-4CC8-8175-2833AC060A15}" group="False" parallel="False" enabled="False" testMoniker="KDT\{BFA06F3E-827B-470C-88CB-C558B9FA4D74}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+			<testItem name="Login" key="{010103CF-B985-4CC8-8175-2833AC060A15}" group="False" parallel="False" enabled="True" testMoniker="KDT\{BFA06F3E-827B-470C-88CB-C558B9FA4D74}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />
